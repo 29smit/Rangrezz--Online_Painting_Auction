@@ -1,0 +1,109 @@
+[01-Apr-2020 16:25:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rangrezz/public_html/seller/include/conn.php on line 16
+[01-Apr-2020 16:25:47 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rangrezz/public_html/seller/include/header.php on line 10
+[01-Apr-2020 16:25:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/rangrezz/public_html/seller/include/header.php:11
+Stack trace:
+#0 /home/rangrezz/public_html/seller/dashboard.php(12): require_once()
+#1 {main}
+  thrown in /home/rangrezz/public_html/seller/include/header.php on line 11
+[01-Apr-2020 16:27:27 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rangrezz/public_html/seller/include/conn.php on line 16
+[01-Apr-2020 16:27:27 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rangrezz/public_html/seller/include/header.php on line 10
+[01-Apr-2020 16:27:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/rangrezz/public_html/seller/include/header.php:11
+Stack trace:
+#0 /home/rangrezz/public_html/seller/dashboard.php(12): require_once()
+#1 {main}
+  thrown in /home/rangrezz/public_html/seller/include/header.php on line 11
+[02-Apr-2020 08:54:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:54:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:54:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:55:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:56:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:56:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:56:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:56:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:57:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:57:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:57:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:57:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:57:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:57:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:57:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:57:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:57:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:57:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:57:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:57:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:57:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:57:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:57:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:57:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:57:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:57:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:58:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:58:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:58:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:58:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:58:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:58:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:58:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:58:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:58:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:58:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:58:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:58:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:59:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:59:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:59:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:59:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:59:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:59:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:59:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 08:59:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:00:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:00:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:01:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:01:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:01:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:01:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:01:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:01:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:01:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:02:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:02:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:02:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:03:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:03:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:03:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:03:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:03:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:03:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:03:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:03:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:03:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:05:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:05:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:05:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 09:10:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 10:13:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 10:18:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 10:18:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rangrezz/public_html/seller/setting.php:1) in /home/rangrezz/public_html/seller/setting.php on line 7
+[02-Apr-2020 10:18:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 10:18:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rangrezz/public_html/seller/setting.php:1) in /home/rangrezz/public_html/seller/setting.php on line 7
+[02-Apr-2020 10:23:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 10:23:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rangrezz/public_html/seller/setting.php:1) in /home/rangrezz/public_html/seller/setting.php on line 10
+[02-Apr-2020 10:24:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 10:24:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rangrezz/public_html/seller/setting.php:1) in /home/rangrezz/public_html/seller/setting.php on line 9
+[02-Apr-2020 10:27:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 10:27:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rangrezz/public_html/seller/setting.php:1) in /home/rangrezz/public_html/seller/setting.php on line 9
+[02-Apr-2020 10:29:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 10:31:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 10:31:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 10:32:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 10:32:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 10:34:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 10:34:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 10:34:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function var_dumo() in /home/rangrezz/public_html/seller/setting.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rangrezz/public_html/seller/setting.php on line 6
+[02-Apr-2020 10:35:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7
+[02-Apr-2020 10:39:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/rangrezz/public_html/seller/include/session.php on line 7

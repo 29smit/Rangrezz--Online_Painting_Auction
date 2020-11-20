@@ -1,0 +1,65 @@
+[01-Apr-2020 16:28:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rangrezz/public_html/gallery/add.php on line 169
+[01-Apr-2020 16:28:37 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rangrezz/public_html/gallery/add.php on line 170
+[01-Apr-2020 16:28:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/rangrezz/public_html/gallery/add.php:173
+Stack trace:
+#0 /home/rangrezz/public_html/gallery/index.php(366): addpainting()
+#1 {main}
+  thrown in /home/rangrezz/public_html/gallery/add.php on line 173
+[01-Apr-2020 16:41:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rangrezz/public_html/gallery/add.php on line 169
+[01-Apr-2020 16:41:59 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rangrezz/public_html/gallery/add.php on line 170
+[01-Apr-2020 16:41:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/rangrezz/public_html/gallery/add.php:173
+Stack trace:
+#0 /home/rangrezz/public_html/gallery/index.php(366): addpainting()
+#1 {main}
+  thrown in /home/rangrezz/public_html/gallery/add.php on line 173
+[01-Apr-2020 16:43:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rangrezz/public_html/gallery/add.php on line 169
+[01-Apr-2020 16:43:55 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rangrezz/public_html/gallery/add.php on line 170
+[01-Apr-2020 16:43:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/rangrezz/public_html/gallery/add.php:173
+Stack trace:
+#0 /home/rangrezz/public_html/gallery/index.php(366): addpainting()
+#1 {main}
+  thrown in /home/rangrezz/public_html/gallery/add.php on line 173
+[01-Apr-2020 16:46:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'rangrezz_smit'@'localhost' (using password: YES) in /home/rangrezz/public_html/gallery/add.php on line 164
+[01-Apr-2020 16:46:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rangrezz/public_html/gallery/add.php on line 165
+[01-Apr-2020 16:46:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/rangrezz/public_html/gallery/add.php:168
+Stack trace:
+#0 /home/rangrezz/public_html/gallery/index.php(366): addpainting()
+#1 {main}
+  thrown in /home/rangrezz/public_html/gallery/add.php on line 168
+[01-Apr-2020 16:50:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'rangrezz_smit'@'server.bowlappserver.com' (using password: YES) in /home/rangrezz/public_html/gallery/add.php on line 164
+[01-Apr-2020 16:50:16 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rangrezz/public_html/gallery/add.php on line 165
+[01-Apr-2020 16:50:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/rangrezz/public_html/gallery/add.php:168
+Stack trace:
+#0 /home/rangrezz/public_html/gallery/index.php(366): addpainting()
+#1 {main}
+  thrown in /home/rangrezz/public_html/gallery/add.php on line 168
+[01-Apr-2020 16:58:28 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'rangrezz_smit'@'server.bowlappserver.com' (using password: YES) in /home/rangrezz/public_html/gallery/add.php on line 164
+[01-Apr-2020 16:58:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rangrezz/public_html/gallery/add.php on line 165
+[01-Apr-2020 16:58:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/rangrezz/public_html/gallery/add.php:168
+Stack trace:
+#0 /home/rangrezz/public_html/gallery/index.php(366): addpainting()
+#1 {main}
+  thrown in /home/rangrezz/public_html/gallery/add.php on line 168
+[01-Apr-2020 16:58:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'rangrezz_smit'@'server.bowlappserver.com' (using password: YES) in /home/rangrezz/public_html/gallery/add.php on line 164
+[01-Apr-2020 16:58:37 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rangrezz/public_html/gallery/add.php on line 165
+[01-Apr-2020 16:58:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/rangrezz/public_html/gallery/add.php:168
+Stack trace:
+#0 /home/rangrezz/public_html/gallery/index.php(366): addpainting()
+#1 {main}
+  thrown in /home/rangrezz/public_html/gallery/add.php on line 168
+[01-Apr-2020 16:58:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'rangrezz_smit'@'server.bowlappserver.com' (using password: YES) in /home/rangrezz/public_html/gallery/add.php on line 164
+[01-Apr-2020 16:58:45 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rangrezz/public_html/gallery/add.php on line 165
+[01-Apr-2020 16:58:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/rangrezz/public_html/gallery/add.php:168
+Stack trace:
+#0 /home/rangrezz/public_html/gallery/index.php(366): addpainting()
+#1 {main}
+  thrown in /home/rangrezz/public_html/gallery/add.php on line 168
+[01-Apr-2020 17:01:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'rangrezz_smit'@'server.bowlappserver.com' (using password: YES) in /home/rangrezz/public_html/gallery/add.php on line 164
+[02-Apr-2020 13:52:57 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rangrezz/public_html/gallery/add.php on line 128
+[02-Apr-2020 13:52:57 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rangrezz/public_html/gallery/add.php on line 143
+[02-Apr-2020 13:53:25 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rangrezz/public_html/gallery/add.php on line 128
+[02-Apr-2020 13:53:25 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rangrezz/public_html/gallery/add.php on line 143
+[02-Apr-2020 13:54:09 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rangrezz/public_html/gallery/add.php on line 128
+[02-Apr-2020 13:54:09 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rangrezz/public_html/gallery/add.php on line 143
+[02-Apr-2020 13:54:47 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rangrezz/public_html/gallery/add.php on line 128
+[02-Apr-2020 13:54:47 Asia/Kolkata] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rangrezz/public_html/gallery/add.php on line 143

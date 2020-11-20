@@ -1,0 +1,4 @@
+[01-Apr-2020 16:22:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rangrezz/public_html/admin/include/conn.php on line 16
+[01-Apr-2020 16:22:33 UTC] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/rangrezz/public_html/admin/module/function.php on line 19
+[01-Apr-2020 16:22:33 UTC] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/rangrezz/public_html/admin/module/function.php on line 21
+[01-Apr-2020 16:22:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/rangrezz/public_html/admin/module/function.php on line 25
